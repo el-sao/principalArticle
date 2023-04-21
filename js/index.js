@@ -1,0 +1,1 @@
+const menuIcon=document.querySelector("#menuIcon"),navigator=document.querySelector(".navigation"),checkI=document.querySelector("#checkI");checkI.addEventListener("click",()=>{checkI.checked?navigator.style.opacity="1":navigator.style.opacity="0"});
